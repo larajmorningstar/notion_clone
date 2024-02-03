@@ -1,3 +1,23 @@
+Description:
+Notion clone, meticulously crafted using React, JavaScript, Tailwind CSS, and Next.js 13. This dynamic application seamlessly integrates Convex for state management, Clerk for authentication, and Edgestore for efficient data storage via an API. Immerse yourself in rich-text editing, hierarchical organization, task management, and real-time collaboration—all presented through an intuitive UI. Elevate your productivity with this Notion-inspired project, where cutting-edge technologies converge, and Edgestore powers the API for a robust experience.
+
+Key Features:
+
+Rich-text editing
+Hierarchical organization
+Task management
+Real-time collaboration
+Convex for state management
+Clerk for authentication
+Edgestore API for data storage
+Technologies Used:
+
+Frontend: React, JavaScript, Tailwind CSS, Next.js 13
+State Management: Convex
+Authentication: Clerk
+Database: Edgestore
+API: Edgestore
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -18,27 +38,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-Project Title: Notion Clone
-
-Description:
-Embark on a journey of collaborative productivity with this Notion clone, meticulously crafted using React, JavaScript, Tailwind CSS, and Next.js 13. This dynamic application seamlessly integrates Convex for state management, Clerk for authentication, and Edgestore for efficient data storage via an API. Immerse yourself in rich-text editing, hierarchical organization, task management, and real-time collaboration—all presented through an intuitive UI. Elevate your productivity with this Notion-inspired project, where cutting-edge technologies converge, and Edgestore powers the API for a robust experience.
-
-Key Features:
-
-Rich-text editing
-Hierarchical organization
-Task management
-Real-time collaboration
-Convex for state management
-Clerk for authentication
-Edgestore API for data storage
-Technologies Used:
-
-Frontend: React, JavaScript, Tailwind CSS, Next.js 13
-State Management: Convex
-Authentication: Clerk
-Database: Edgestore
-API: Edgestore
 How to Use:
 
 Clone the repository.
