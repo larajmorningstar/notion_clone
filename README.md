@@ -1,9 +1,16 @@
+
+![Screenshot 2024-02-03 133825](https://github.com/larajmorningstar/notion_clone/assets/114085798/4feb1061-ac03-4d8e-a04a-375942175f54)
+![Screenshot 2024-02-03 133913](https://github.com/larajmorningstar/notion_clone/assets/114085798/e3ceb857-d1c2-4283-bea0-ba47b7319af3)
+
+Project Title: Notion Clone Fotion
 Description:
 Notion clone, meticulously crafted using React, JavaScript, Tailwind CSS, and Next.js 13. This dynamic application seamlessly integrates Convex for state management, Clerk for authentication, and Edgestore for efficient data storage via an API. Immerse yourself in rich-text editing, hierarchical organization, task management, and real-time collaboration—all presented through an intuitive UI. Elevate your productivity with this Notion-inspired project, where cutting-edge technologies converge, and Edgestore powers the API for a robust experience.
 
 Key Features:
 
 Rich-text editing
+Add emojis, images, files, etc
+Option to change to light, dark or system theme
 Hierarchical organization
 Task management
 Real-time collaboration
