@@ -4,8 +4,9 @@
 <br />
 <div align="center">
   <a href[="https://github.com/larajmorningstar/notion_clone">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/larajmorningstar/notion_clone/assets/114085798/0d527884-818b-4d6f-a46a-08e215348337" alt="Logo" width="80" height="80">
   </a>
+
 
 <h3 align="center">Notion Clone (Fotion) </h3>
 
@@ -42,9 +43,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#roadmap">Features</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -55,6 +54,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screentshot2]](https://example.com)
 
 Notion clone, meticulously crafted using React, JavaScript, Tailwind CSS, and Next.js 13. This dynamic application seamlessly integrates Convex for state management, Clerk for authentication, and Edgestore for efficient data storage via an API. Immerse yourself in rich-text editing, hierarchical organization, task management, and real-time collaboration—all presented through an intuitive UI. Elevate your productivity with this Notion-inspired project, where cutting-edge technologies converge, and Edgestore powers the API for a robust experience.
 
@@ -87,7 +87,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-## Getting Started
+## Installation
 
 First, run the development server:
 
@@ -127,7 +127,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ Task management ] Feature 4
 - [ Convex for state management ] Feature 5
 - [ Clerk for authentication ] Feature 6
--  [ Edgestore API for data storage ] Feature 7
+- [ Edgestore API for data storage ] Feature 7
 - [ Add emojis, images, files, etc ] Feature 8
 - [ Option to change to light, dark or system theme ] Feature 9
 - [ Content Sharing ] Feature 10
@@ -162,7 +162,8 @@ Lara Morningstar - laramorningstar@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/larajmorningstar/notion_clone/assets/114085798/8ac7d0e1-ad7a-4d6d-a0c5-03ca6c8aef46
+[product-screentshot2]: https://github.com/larajmorningstar/notion_clone/assets/114085798/61626b86-64f9-44ff-a317-484971d564c5
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
