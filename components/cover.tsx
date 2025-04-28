@@ -1,6 +1,5 @@
 "use client";
 
-
 import Image from "next/image";
 import { ImageIcon, X } from "lucide-react";
 import { useMutation } from "convex/react";
