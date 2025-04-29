@@ -136,7 +136,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: https://github.com/larajmorningstar/notion_clone/assets/114085798/8ac7d0e1-ad7a-4d6d-a0c5-03ca6c8aef46
