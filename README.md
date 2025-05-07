@@ -103,7 +103,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -112,7 +111,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- Features -->
@@ -130,7 +128,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ Content Sharing ] Feature 10
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
