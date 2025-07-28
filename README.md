@@ -142,3 +142,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 [React-url]: https://reactjs.org/
 [TailwindCSS.js]: https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=
 [TailwindCSS-url]: https://tailwindcss.com/
+
